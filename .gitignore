@@ -1,0 +1,32 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vs/
+*.DotSettings.user
+
+# 编译输出
+*.exe
+*.dll
+*.pdb
+
+# 日志
+logs/
+*.log
+
+# SQLite 数据库文件（运行时生成）
+*.db
+*.db-shm
+*.db-wal
+
+# 导出文件
+exports/
+
+# NuGet
+*.nupkg
+
+# OS
+Thumbs.db
+Desktop.ini
